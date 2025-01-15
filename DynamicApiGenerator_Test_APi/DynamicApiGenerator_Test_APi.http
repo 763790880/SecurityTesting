@@ -1,0 +1,6 @@
+@DynamicApiGenerator_Test_APi_HostAddress = http://localhost:5208
+
+GET {{DynamicApiGenerator_Test_APi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

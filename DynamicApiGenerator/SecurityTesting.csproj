@@ -8,7 +8,7 @@
     <Authors>CCF</Authors>
     <Product>SecurityTesting</Product>
     <Description>用于检测系统的稳定性</Description>
-    <Version>1.0.0</Version>
+    <Version>6.0.0</Version>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <RepositoryUrl>https://github.com/763790880/SecurityTesting.git</RepositoryUrl>

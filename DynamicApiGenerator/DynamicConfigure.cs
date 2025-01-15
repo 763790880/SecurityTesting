@@ -2,7 +2,6 @@
 using DynamicApiGenerator;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.Extensions.DependencyInjection;
-using Nxin.Qlw.Purchasing.Util;
 using System.Reflection;
 using System.Text.RegularExpressions;
 

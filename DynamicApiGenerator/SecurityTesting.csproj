@@ -11,6 +11,7 @@
     <Version>1.0.0</Version>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <PackageReadmeFile>SecurityTesting.md</PackageReadmeFile>
+    <RepositoryUrl>https://github.com/763790880/SecurityTesting.git</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>

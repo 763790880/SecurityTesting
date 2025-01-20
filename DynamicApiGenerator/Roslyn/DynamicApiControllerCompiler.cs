@@ -57,7 +57,6 @@ namespace DynamicApiGenerator
                         diagnostic.Severity == DiagnosticSeverity.Error);
 
                     var errorMessage = string.Join(Environment.NewLine, failures.Select(d => d.ToString()));
-                    throw new InvalidOperationException($"Compilation failed with the following errors:{Environment.NewLine}{errorMessage}");
                 }
 
                 ms.Seek(0, SeekOrigin.Begin);
